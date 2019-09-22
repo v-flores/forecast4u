@@ -1,4 +1,4 @@
-alert("Hello! Please allow the browser to track your location. ");
+alert("Hello! Forecast4u obtains your local weather forecast automatically. Please allow the browser to track your location for full functionality. ");
 
 window.addEventListener('load', ()=> {
     let long;
